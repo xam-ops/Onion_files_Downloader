@@ -37,13 +37,6 @@ Save the downloaded file with a custom name:
 python3 onion_download.py https://example.onion/file.zip -o myfile.zip
 ```
 
-### View Help
-
-Display all available options:
-
-```bash
-onion_download.py -h
-```
 
 ## Features
 
