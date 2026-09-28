@@ -8,7 +8,7 @@ Onion Downloader automates the process of downloading files from `.onion` addres
 
 ## Requirements
 
-- Python 3.6+
+- Python 3
 - Tor installed and available in PATH
 
 ## Tool
