@@ -11,6 +11,12 @@ Onion Downloader automates the process of downloading files from `.onion` addres
 - Python 3.6+
 - Tor installed and available in PATH
 
+## Tool
+
+```bash
+git clone ""
+```
+
 ## Installation
 
 Install dependencies using pip:
